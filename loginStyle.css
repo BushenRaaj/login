@@ -1,0 +1,33 @@
+body{
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color:aqua;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 60%;
+  }
+  
+input:focus{
+    background-color: rgb(148, 206, 245);
+}
+
+button:hover{
+    background-color: rgb(238, 198, 198);
+}
+
+.co{
+    background-color: antiquewhite;
+    align-items: center;
+    border: 5px solid aqua;
+    border-radius: 30px;
+    width: 250px;
+    height: 300px;
+}
